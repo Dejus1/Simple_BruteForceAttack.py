@@ -32,6 +32,6 @@ def BruteForceBot():
         button_login = browser.find_element_by_xpath('/html/body/div[1]/form/fieldset/p/input')
         button_login.click()
         login_attempt = login_attempt + 1
-        print('próba logowania ', login_attempt, ' z użyciem klucza : ', line )
+        print('Login attempt', login_attempt, ' with key/password : ', line )
 
 BruteForceBot()
