@@ -1,0 +1,561 @@
+1598142652310	geckodriver	INFO	Listening on 127.0.0.1:1221
+1598142655326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Przemek\\AppData\\Local\\Temp\\rust_mozprofileFDtO42"
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598142657460	Marionette	INFO	Listening on port 1229
+1598142657984	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598142717149	Marionette	INFO	Stopped listening on port 1229
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598183438126	geckodriver	INFO	Listening on 127.0.0.1:1037
+1598183441149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Przemek\\AppData\\Local\\Temp\\rust_mozprofilewdmYuS"
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598183443189	Marionette	INFO	Listening on port 1048
+1598183443262	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598183508352	Marionette	INFO	Stopped listening on port 1048
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598183778770	geckodriver	INFO	Listening on 127.0.0.1:1077
+1598183781789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Przemek\\AppData\\Local\\Temp\\rust_mozprofileWwstho"
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598183783858	Marionette	INFO	Listening on port 1100
+1598183783915	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598183849289	Marionette	INFO	Stopped listening on port 1100
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598183916015	geckodriver	INFO	Listening on 127.0.0.1:1190
+1598183919023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Przemek\\AppData\\Local\\Temp\\rust_mozprofileEHIdOY"
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598183920976	Marionette	INFO	Listening on port 1211
+1598183921062	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598183985082	Marionette	INFO	Stopped listening on port 1211
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598184116924	geckodriver	INFO	Listening on 127.0.0.1:1109
+1598184119944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Przemek\\AppData\\Local\\Temp\\rust_mozprofile7I5Yso"
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598184122153	Marionette	INFO	Listening on port 1128
+1598184122552	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598184142583	Marionette	INFO	Stopped listening on port 1128
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598184175000	geckodriver	INFO	Listening on 127.0.0.1:1228
+1598184178021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Przemek\\AppData\\Local\\Temp\\rust_mozprofileoDMVSA"
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598184179983	Marionette	INFO	Listening on port 1243
+1598184180029	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2164: TypeError: event.target.closest is not a function
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598184237914	Marionette	INFO	Stopped listening on port 1243
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598184343664	geckodriver	INFO	Listening on 127.0.0.1:1295
+1598184346685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Przemek\\AppData\\Local\\Temp\\rust_mozprofileWbHOKI"
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598184348744	Marionette	INFO	Listening on port 1305
+1598184348811	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598184377237	Marionette	INFO	Stopped listening on port 1305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598184411383	geckodriver	INFO	Listening on 127.0.0.1:1340
+1598184414402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Przemek\\AppData\\Local\\Temp\\rust_mozprofilecBwePy"
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598184416440	Marionette	INFO	Listening on port 1349
+1598184416526	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598184435949	Marionette	INFO	Stopped listening on port 1349
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598192390871	geckodriver	INFO	Listening on 127.0.0.1:1214
+1598192393882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Przemek\\AppData\\Local\\Temp\\rust_mozprofilev7i1CZ"
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598192395963	Marionette	INFO	Listening on port 1226
+1598192395995	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598192413716	Marionette	INFO	Stopped listening on port 1226
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598192443826	geckodriver	INFO	Listening on 127.0.0.1:1295
+1598192446854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Przemek\\AppData\\Local\\Temp\\rust_mozprofilectCQzF"
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598192448928	Marionette	INFO	Listening on port 1306
+1598192448978	Marionette	WARN	TLS certificate errors will be ignored for this session
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsidevprops.dll' -- see http://www.mozilla.com/en-US/blocklist/
+LdrLoadDll: Blocking load of 'nahimicmsiosd.dll' -- see http://www.mozilla.com/en-US/blocklist/
+1598192522382	Marionette	INFO	Stopped listening on port 1306
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
